@@ -17,6 +17,7 @@ import { IndexerModule } from './indexer/indexer.module';
     ReputationModule,
     DatabaseModule,
     IndexerModule,
+    
   ],
   controllers: [AppController],
   providers: [AppService],
